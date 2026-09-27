@@ -1,0 +1,7 @@
+numpy==2.3.2
+scipy==1.17.0
+scikit-learn==1.8.0
+pandas
+lightgbm
+jellyfish
+tqdm
